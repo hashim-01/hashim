@@ -1,0 +1,12 @@
+Relational Databases:
+Data is organized into tables with rows and columns.
+Relationships between tables are defined using primary and foreign keys.
+Examples: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server
+NoSQL Databases:
+More flexible data models than relational databases, often handling unstructured or semi-structured data.
+Examples: MongoDB, Cassandra, Redis, Couchbase
+Object-Oriented Databases:
+Store data in the form of objects, similar to object-oriented programming languages.
+Examples: ObjectDB, Objectivity/DB
+Hierarchical Databases:
+Organize data in a tree-like structure, with a parent-child relationship between records.
